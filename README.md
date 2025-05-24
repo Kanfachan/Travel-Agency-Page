@@ -41,11 +41,11 @@ After completing this project, I was able to construct my own travel agency webp
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://kanfachan.github.io/Travel-Agency-Page/
 
 ## GitHub Repository Location (HTTPS)
 
-https://github.com/Kanfachan/Travel-Agency-Page
+https://github.com/Kanfachan/Travel-Agency-Page/
 
 
 ## Credits
