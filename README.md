@@ -60,7 +60,7 @@ https://github.com/Kanfachan/Travel-Agency-Page/
 
 * zipline-through-the-rainforest:
 
-  https://www.travelexcellence.com/wp-content/uploads/2020/10/what-to-do-in-costa-rica-100-outdoor-adventure-canopy-tour.jpg.webp
+  https://www.travelexcellence.com/wp-content/uploads/2020/10/what-to-do-in-costa-rica-100-outdoor-adventure-canopy-tour.jpg
 
 
 * water-rafting-adventure:
