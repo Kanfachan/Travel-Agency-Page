@@ -38,6 +38,7 @@ After completing this project, I was able to construct my own travel agency webp
 ![](/screenshots/screenshot1.png "screenshot 1")
 ![](/screenshots/screenshot2.png "screenshot 2")
 ![](/screenshots/screenshot3.png "screenshot 3")
+![](/screenshots/screenshot4.png "screenshot 4")
 
 ## GitHub Deployment Location (HTTPS)
 
@@ -55,17 +56,17 @@ https://github.com/Kanfachan/Travel-Agency-Page/
 
 * explore-waterfalls:
 
-  https://www.bemytravelmuse.com/wp-content/uploads/2022/07/uvita-costa-rica.jpg
+  https://unsplash.com/photos/woman-standing-on-rock-formation-near-body-of-water-q5jMsCjaQwA
 
 
-* zipline-through-the-rainforest:
+* outward-bound-costa-rica:
 
-  https://www.travelexcellence.com/wp-content/uploads/2020/10/what-to-do-in-costa-rica-100-outdoor-adventure-canopy-tour.jpg
+  https://unsplash.com/photos/a-man-on-a-rope-in-the-middle-of-a-forest-raKxqfjs03Y
 
 
 * water-rafting-adventure:
 
-  https://www.twowanderingsoles.com/wp-content/uploads/2021/07/img_60ee87bf37b29.jpg
+  https://unsplash.com/photos/people-riding-orange-kayak-on-water-during-daytime-nBNROOkE0W8
 
 
 ## Contribution
